@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>WIMB</fullName>
+    <columns>MasterLabel</columns>
+    <columns>Mock__c</columns>
+    <columns>Active__c</columns>
+    <columns>BasePath__c</columns>
+    <columns>Environment__c</columns>
+    <columns>APIName__c</columns>
+    <columns>DeveloperName</columns>
+    <columns>Debug__c</columns>
+    <filterScope>Everything</filterScope>
+    <filters>
+        <field>APIName__c</field>
+        <operation>equals</operation>
+        <value>WIMB,logistic.tracking.wimb</value>
+    </filters>
+    <label>WIMB</label>
+    <language>en_US</language>
+</ListView>

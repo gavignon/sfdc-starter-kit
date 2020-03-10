@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Debug__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>This field is for enabling debug logs, on Web services &amp; Apex, in order to log successful responses from WS</description>
+    <externalId>false</externalId>
+    <fieldManageability>DeveloperControlled</fieldManageability>
+    <label>Debug</label>
+    <type>Checkbox</type>
+</CustomField>

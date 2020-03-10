@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>invoicing_advanced_v1</fullName>
+    <columns>MasterLabel</columns>
+    <columns>DeveloperName</columns>
+    <columns>NamespacePrefix</columns>
+    <filterScope>Everything</filterScope>
+    <filters>
+        <field>APIName__c</field>
+        <operation>equals</operation>
+        <value>invoicing.advanced.v1</value>
+    </filters>
+    <label>invoicing.advanced.v1</label>
+    <language>en_US</language>
+</ListView>

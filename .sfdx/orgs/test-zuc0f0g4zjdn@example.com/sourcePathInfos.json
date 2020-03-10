@@ -1,0 +1,1642 @@
+[
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1583762936874,
+            "changeTime": 1583762936874,
+            "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1583772536454,
+            "changeTime": 1583762936872,
+            "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default",
+            "isDirectory": true,
+            "size": 512,
+            "modifiedTime": 1583772536454,
+            "changeTime": 1583772536454,
+            "contentHash": "416359f1b90d62517cfde7b4bb6f64c9aab5f029",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/applications",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/applications",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1583762582206,
+            "changeTime": 1583762600027,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1583762582206,
+            "changeTime": 1583762600027,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/classes",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/classes",
+            "isDirectory": true,
+            "size": 864,
+            "modifiedTime": 1583774967986,
+            "changeTime": 1583774967986,
+            "contentHash": "4011d25e328866d44da4a2be0cb3a59f6e3fc7e0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/contentassets",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/contentassets",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1583762582206,
+            "changeTime": 1583762600023,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/flexipages",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1583762582206,
+            "changeTime": 1583762600024,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/layouts",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/layouts",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1583762582206,
+            "changeTime": 1583762600026,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/lwc",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/lwc",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1583762582332,
+            "changeTime": 1583762600022,
+            "contentHash": "71c20a341bfe32aa5cd5b4384e94f942bab6a7d3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1583772326274,
+            "changeTime": 1583772326274,
+            "contentHash": "4dfe02d438248c85f6004d57684ae511bfe566ba",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/permissionsets",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1583762582207,
+            "changeTime": 1583762600023,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/staticresources",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/staticresources",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1583762582207,
+            "changeTime": 1583762600025,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/tabs",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/tabs",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1583762582207,
+            "changeTime": 1583762600022,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/triggers",
+        {
+            "state": "u",
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/triggers",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1583775043469,
+            "changeTime": 1583775043469,
+            "isWorkspace": false,
+            "contentHash": "139ef9618f25641b9cd403c998d8974f0690954e"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit",
+            "isDirectory": true,
+            "size": 288,
+            "modifiedTime": 1583774059351,
+            "changeTime": 1583763081586,
+            "contentHash": "8b54a12570a2d48853ca6938c7b630abd65d2237",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/labels",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/labels",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1583772491554,
+            "changeTime": 1583772536454,
+            "contentHash": "c3835cc038e1e9f66a66938c26f39887d32c77d8",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/CalloutSetting__mdt",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/CalloutSetting__mdt",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1583772291636,
+            "changeTime": 1583772326274,
+            "contentHash": "c76840e499a860cfae0dd694127e61127bd583b9",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/CalloutSetting__mdt/fields",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/CalloutSetting__mdt/fields",
+            "isDirectory": true,
+            "size": 512,
+            "modifiedTime": 1583772291636,
+            "changeTime": 1583772319317,
+            "contentHash": "858088095a2f8e5655d3b965fda48310ffe78a8c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/CalloutSetting__mdt/listViews",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/CalloutSetting__mdt/listViews",
+            "isDirectory": true,
+            "size": 320,
+            "modifiedTime": 1583772291640,
+            "changeTime": 1583772319296,
+            "contentHash": "7432f632a63c2659b883408ed5f8f413b4841bcc",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/LogEvent__e",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/LogEvent__e",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1583763993951,
+            "changeTime": 1583764068629,
+            "contentHash": "af07761ee10fc0140dfbd4af555c1a130da1f589",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/LogEvent__e/fields",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/LogEvent__e/fields",
+            "isDirectory": true,
+            "size": 736,
+            "modifiedTime": 1583763993988,
+            "changeTime": 1583764065488,
+            "contentHash": "893454573fa50f157690b962a708a85ebc7e742a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1583763935874,
+            "changeTime": 1583764068614,
+            "contentHash": "4538654e692292b9558af09e55d27fc5d984374a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/fields",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/fields",
+            "isDirectory": true,
+            "size": 736,
+            "modifiedTime": 1583763935872,
+            "changeTime": 1583764065317,
+            "contentHash": "bac07747e6d11f3aa09f62c1ebc181e38428ba97",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/listViews",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/listViews",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1583763935873,
+            "changeTime": 1583764065262,
+            "contentHash": "1dc65f7fcac000dd65934bfc2a038a0046942b91",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/recordTypes",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/recordTypes",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1583763935900,
+            "changeTime": 1583764065322,
+            "contentHash": "c87c8d6abfb18a260a01de1dd52a2084a96ce7aa",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/labels/CustomLabels.labels-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/labels/CustomLabels.labels-meta.xml",
+            "isDirectory": false,
+            "size": 667,
+            "modifiedTime": 1583772573494,
+            "changeTime": 1583772573494,
+            "contentHash": "2a3ef022cb2a07264ab7e0992455b3b007d52a54",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/classes/UTIL_Logger.cls",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/classes/UTIL_Logger.cls",
+            "isDirectory": false,
+            "size": 13437,
+            "modifiedTime": 1583774846318,
+            "changeTime": 1583774846318,
+            "contentHash": "f7751bdada067b7c4042008dbd588043c9f5d27d",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/classes/UTIL_Logger.cls-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/classes/UTIL_Logger.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1583421242000,
+            "changeTime": 1583774240945,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/classes/UTIL_LoggerTest.cls",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/classes/UTIL_LoggerTest.cls",
+            "isDirectory": false,
+            "size": 3272,
+            "modifiedTime": 1583774846341,
+            "changeTime": 1583774846341,
+            "contentHash": "08014bb772971fc5157115a8d39b03f3c42e8f8b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/classes/UTIL_LoggerTest.cls-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/classes/UTIL_LoggerTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1583421242000,
+            "changeTime": 1583774246071,
+            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/classes/UTIL_RecordType.cls",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/classes/UTIL_RecordType.cls",
+            "isDirectory": false,
+            "size": 13260,
+            "modifiedTime": 1583774583006,
+            "changeTime": 1583774592482,
+            "contentHash": "b325a833d59b2f240aaa0af870dc3cf96fc980c4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/classes/UTIL_RecordType.cls-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/classes/UTIL_RecordType.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1583421242000,
+            "changeTime": 1583774597670,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/classes/UTIL_RecordTypeTest.cls",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/classes/UTIL_RecordTypeTest.cls",
+            "isDirectory": false,
+            "size": 1586,
+            "modifiedTime": 1583774583006,
+            "changeTime": 1583774602031,
+            "contentHash": "f12e236c9b287b99323ac1a16fad8d335b0bfafe",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/classes/UTIL_RecordTypeTest.cls-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/classes/UTIL_RecordTypeTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1583421242000,
+            "changeTime": 1583774607625,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/classes/UTIL_TestFactory.cls",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/classes/UTIL_TestFactory.cls",
+            "isDirectory": false,
+            "size": 2178,
+            "modifiedTime": 1583774739634,
+            "changeTime": 1583774739634,
+            "contentHash": "c1002a3f4de67b44ed46d10f600e6868eb90958e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/classes/UTIL_TestFactory.cls-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/classes/UTIL_TestFactory.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1576161945690,
+            "changeTime": 1583773704703,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/classes/UTIL_TestValidationRule.cls",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/classes/UTIL_TestValidationRule.cls",
+            "isDirectory": false,
+            "size": 978,
+            "modifiedTime": 1506271444000,
+            "changeTime": 1583774059338,
+            "contentHash": "82d7497df38b20982f370888dbb5919b0cc97b95",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/classes/UTIL_TestValidationRule.cls-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/classes/UTIL_TestValidationRule.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1576161945690,
+            "changeTime": 1583774081229,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/classes/WS_Helper.cls",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/classes/WS_Helper.cls",
+            "isDirectory": false,
+            "size": 14110,
+            "modifiedTime": 1583774846299,
+            "changeTime": 1583774846299,
+            "contentHash": "a093ecf74f084b2a9fb89ede580ad5093ab3a957",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/classes/WS_Helper.cls-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/classes/WS_Helper.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1583421242000,
+            "changeTime": 1583774401036,
+            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/classes/WS_HelperTest.cls",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/classes/WS_HelperTest.cls",
+            "isDirectory": false,
+            "size": 4089,
+            "modifiedTime": 1583774794351,
+            "changeTime": 1583774794351,
+            "contentHash": "fa741c2f34294137356bd4e8e7c0d6e1a049ade4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/classes/WS_HelperTest.cls-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/classes/WS_HelperTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1583421242000,
+            "changeTime": 1583774411145,
+            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/CalloutSetting__mdt/CalloutSetting__mdt.object-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/CalloutSetting__mdt/CalloutSetting__mdt.object-meta.xml",
+            "isDirectory": false,
+            "size": 396,
+            "modifiedTime": 1583772291624,
+            "changeTime": 1583772319279,
+            "contentHash": "414bc09d6299a639a0edb797047837d5568031e2",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/CalloutSetting__mdt/fields/APIKey__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/CalloutSetting__mdt/fields/APIKey__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 445,
+            "modifiedTime": 1583772291625,
+            "changeTime": 1583772319316,
+            "contentHash": "015031b7c9919f2f4a890f29e9dbb3d503688112",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/CalloutSetting__mdt/fields/APIName__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/CalloutSetting__mdt/fields/APIName__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 3203,
+            "modifiedTime": 1583772291626,
+            "changeTime": 1583772319309,
+            "contentHash": "8104ca950194ed4789a049012645dea119a13c47",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/CalloutSetting__mdt/fields/Active__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/CalloutSetting__mdt/fields/Active__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 414,
+            "modifiedTime": 1583772291627,
+            "changeTime": 1583772319314,
+            "contentHash": "9dce51e40bd2a01ff77869534a0afe0b4d451963",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/CalloutSetting__mdt/fields/Authentication__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/CalloutSetting__mdt/fields/Authentication__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1195,
+            "modifiedTime": 1583772291627,
+            "changeTime": 1583772319303,
+            "contentHash": "002179574b94a12da950fa92278b0c843c6801bd",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/CalloutSetting__mdt/fields/BasePath__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/CalloutSetting__mdt/fields/BasePath__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 445,
+            "modifiedTime": 1583772291628,
+            "changeTime": 1583772319302,
+            "contentHash": "8fb042f1f627e6acaa7313d54676a19f882bc26a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/CalloutSetting__mdt/fields/Debug__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/CalloutSetting__mdt/fields/Debug__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 483,
+            "modifiedTime": 1583772291629,
+            "changeTime": 1583772319314,
+            "contentHash": "deda85cf54665e2da00406d858058d8357cdaa5a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/CalloutSetting__mdt/fields/Description__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/CalloutSetting__mdt/fields/Description__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 443,
+            "modifiedTime": 1583772291629,
+            "changeTime": 1583772319317,
+            "contentHash": "e8c8a5da226bf0edb201ffb00102fa3fa12363ab",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/CalloutSetting__mdt/fields/Environment__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/CalloutSetting__mdt/fields/Environment__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 4290,
+            "modifiedTime": 1583772291631,
+            "changeTime": 1583772319308,
+            "contentHash": "a933aa7704cd37fee35277b8e365cc4c8ff9c457",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/CalloutSetting__mdt/fields/Method__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/CalloutSetting__mdt/fields/Method__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 864,
+            "modifiedTime": 1583772291632,
+            "changeTime": 1583772319312,
+            "contentHash": "a7c9f61e11cf6664fd12f7878f35ecd11720fecb",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/CalloutSetting__mdt/fields/MockResponse__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/CalloutSetting__mdt/fields/MockResponse__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 458,
+            "modifiedTime": 1583772291633,
+            "changeTime": 1583772319304,
+            "contentHash": "982316820d7225074ba5ac9fea651a41a960fcf5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/CalloutSetting__mdt/fields/Mock__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/CalloutSetting__mdt/fields/Mock__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 383,
+            "modifiedTime": 1583772291634,
+            "changeTime": 1583772319298,
+            "contentHash": "047cbaaf33cba82aad5e7177b491c5f9ab78c5a0",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/CalloutSetting__mdt/fields/Operation__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/CalloutSetting__mdt/fields/Operation__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 481,
+            "modifiedTime": 1583772291635,
+            "changeTime": 1583772319311,
+            "contentHash": "c0d133664384a585de1cde1867317055da8f9f46",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/CalloutSetting__mdt/fields/Password__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/CalloutSetting__mdt/fields/Password__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 441,
+            "modifiedTime": 1583772291635,
+            "changeTime": 1583772319306,
+            "contentHash": "733c4941436d102951359956d61ef7525fe99d5c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/CalloutSetting__mdt/fields/Username__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/CalloutSetting__mdt/fields/Username__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 451,
+            "modifiedTime": 1583772291636,
+            "changeTime": 1583772319307,
+            "contentHash": "f866f716e94f4e5396ffd27f5ab8e2599c651905",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/CalloutSetting__mdt/listViews/AllFlows.listView-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/CalloutSetting__mdt/listViews/AllFlows.listView-meta.xml",
+            "isDirectory": false,
+            "size": 596,
+            "modifiedTime": 1583772291637,
+            "changeTime": 1583772319290,
+            "contentHash": "a430b3f9f6f6d8af336fdb27ad41c91df62cf4e1",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/CalloutSetting__mdt/listViews/WIMB.listView-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/CalloutSetting__mdt/listViews/WIMB.listView-meta.xml",
+            "isDirectory": false,
+            "size": 664,
+            "modifiedTime": 1583772291637,
+            "changeTime": 1583772319281,
+            "contentHash": "c9674972a729f7b5a3b41db141a17c8cbbfc47e6",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/CalloutSetting__mdt/listViews/authPingfederateV1.listView-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/CalloutSetting__mdt/listViews/authPingfederateV1.listView-meta.xml",
+            "isDirectory": false,
+            "size": 687,
+            "modifiedTime": 1583772291638,
+            "changeTime": 1583772319293,
+            "contentHash": "048ef7d2d0a0e8d0ba7ee9ac3edcf597c06ca527",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/CalloutSetting__mdt/listViews/invoicing_advanced_v1.listView-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/CalloutSetting__mdt/listViews/invoicing_advanced_v1.listView-meta.xml",
+            "isDirectory": false,
+            "size": 528,
+            "modifiedTime": 1583772291638,
+            "changeTime": 1583772319294,
+            "contentHash": "4f534833c0a76ba413b87443880c72217f5a0c2c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/CalloutSetting__mdt/listViews/referentialLocationV2.listView-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/CalloutSetting__mdt/listViews/referentialLocationV2.listView-meta.xml",
+            "isDirectory": false,
+            "size": 696,
+            "modifiedTime": 1583772291639,
+            "changeTime": 1583772319291,
+            "contentHash": "27a7284c2bea870601b17f235db77a5f87894331",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/CalloutSetting__mdt/listViews/shippingShipmentV2.listView-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/CalloutSetting__mdt/listViews/shippingShipmentV2.listView-meta.xml",
+            "isDirectory": false,
+            "size": 687,
+            "modifiedTime": 1583772291639,
+            "changeTime": 1583772319296,
+            "contentHash": "ada62b60e3b26de6c0943e613c2cdb6dae538741",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/CalloutSetting__mdt/listViews/shipping_shipment_shipmentrequest_v1.listView-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/CalloutSetting__mdt/listViews/shipping_shipment_shipmentrequest_v1.listView-meta.xml",
+            "isDirectory": false,
+            "size": 773,
+            "modifiedTime": 1583772291640,
+            "changeTime": 1583772319284,
+            "contentHash": "7f6194f902d88507c1a0b9716cca570d40bb735e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/CalloutSetting__mdt/listViews/vesseloperationVoyageV1.listView-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/CalloutSetting__mdt/listViews/vesseloperationVoyageV1.listView-meta.xml",
+            "isDirectory": false,
+            "size": 702,
+            "modifiedTime": 1583772291641,
+            "changeTime": 1583772319282,
+            "contentHash": "79a5c672711c656865a7dca07fd92b06e01fab03",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/LogEvent__e/LogEvent__e.object-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/LogEvent__e/LogEvent__e.object-meta.xml",
+            "isDirectory": false,
+            "size": 378,
+            "modifiedTime": 1583763993950,
+            "changeTime": 1583764065455,
+            "contentHash": "c2b65a231e25ff10c60b3226e33d1b048e478108",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/LogEvent__e/fields/APIName__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/LogEvent__e/fields/APIName__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 458,
+            "modifiedTime": 1583763993951,
+            "changeTime": 1583764065478,
+            "contentHash": "04633d59c9636ecaebac0f6e8bb264b42cb357df",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/LogEvent__e/fields/ApexClass__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/LogEvent__e/fields/ApexClass__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 462,
+            "modifiedTime": 1583763993952,
+            "changeTime": 1583764065482,
+            "contentHash": "14f7bb5aaffedd38f99db1e63c296484220d920f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/LogEvent__e/fields/ApexMethod__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/LogEvent__e/fields/ApexMethod__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 464,
+            "modifiedTime": 1583763993952,
+            "changeTime": 1583764065475,
+            "contentHash": "64898b9aa1c1d62d5c78ad381a8c0935b4bdf26a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/LogEvent__e/fields/CorrelationId__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/LogEvent__e/fields/CorrelationId__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 554,
+            "modifiedTime": 1583763993953,
+            "changeTime": 1583764065468,
+            "contentHash": "c51e29a21a30980f64f0707c14939e4ead550347",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/LogEvent__e/fields/Description__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/LogEvent__e/fields/Description__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 509,
+            "modifiedTime": 1583763993954,
+            "changeTime": 1583764065487,
+            "contentHash": "afd32e1b254cd1889bc2432354ca5fce5a5fd8a7",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/LogEvent__e/fields/Details__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/LogEvent__e/fields/Details__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 446,
+            "modifiedTime": 1583763993955,
+            "changeTime": 1583764065483,
+            "contentHash": "a1eabc6e16be0ba98eae40eac9e90062a2c64315",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/LogEvent__e/fields/Endpoint__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/LogEvent__e/fields/Endpoint__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 460,
+            "modifiedTime": 1583763993956,
+            "changeTime": 1583764065464,
+            "contentHash": "eff387d6ac5a3fb612a15ca1ce0f3eb8c677a425",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/LogEvent__e/fields/EntityData__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/LogEvent__e/fields/EntityData__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 496,
+            "modifiedTime": 1583763993958,
+            "changeTime": 1583764065474,
+            "contentHash": "58ea2a4271d909402fd6f2c3e0ddf80fd753b80c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/LogEvent__e/fields/EntityID__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/LogEvent__e/fields/EntityID__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 460,
+            "modifiedTime": 1583763993965,
+            "changeTime": 1583764065479,
+            "contentHash": "905125cf0e724f34d657e83161ec649e8bcb0e73",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/LogEvent__e/fields/ExceptionType__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/LogEvent__e/fields/ExceptionType__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 517,
+            "modifiedTime": 1583763993967,
+            "changeTime": 1583764065464,
+            "contentHash": "78d0fe9cd5980c9e6ddcb4081970de07782dcda5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/LogEvent__e/fields/Identifier__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/LogEvent__e/fields/Identifier__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 463,
+            "modifiedTime": 1583763993969,
+            "changeTime": 1583764065462,
+            "contentHash": "e3de7e3f6ee4891202d835bf896f4d4d0eaba24a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/LogEvent__e/fields/RecordTypeId__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/LogEvent__e/fields/RecordTypeId__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 470,
+            "modifiedTime": 1583763993970,
+            "changeTime": 1583764065486,
+            "contentHash": "5489a7ef0873c347b7f9efa77d3b86a5a9b913cb",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/LogEvent__e/fields/RequestBody__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/LogEvent__e/fields/RequestBody__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 455,
+            "modifiedTime": 1583763993970,
+            "changeTime": 1583764065463,
+            "contentHash": "ea50fd483d8d1afcbfe3350aa0af653e149a7971",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/LogEvent__e/fields/RequestHeader__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/LogEvent__e/fields/RequestHeader__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 459,
+            "modifiedTime": 1583763993972,
+            "changeTime": 1583764065471,
+            "contentHash": "119818f187d391e1f75b50039acf52f20db43790",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/LogEvent__e/fields/ResponseBody__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/LogEvent__e/fields/ResponseBody__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 457,
+            "modifiedTime": 1583763993972,
+            "changeTime": 1583764065473,
+            "contentHash": "17eead1b78cf176765f61889596b304984709877",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/LogEvent__e/fields/ResponseHeader__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/LogEvent__e/fields/ResponseHeader__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 461,
+            "modifiedTime": 1583763993973,
+            "changeTime": 1583764065476,
+            "contentHash": "d185ae35e74d782cab24774f3e78cb79ddc4b986",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/LogEvent__e/fields/ResponseStatusCode__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/LogEvent__e/fields/ResponseStatusCode__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 480,
+            "modifiedTime": 1583763993974,
+            "changeTime": 1583764065467,
+            "contentHash": "42bfd9b98aac8ebe59794b3f7f411fb56a64ce26",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/LogEvent__e/fields/ResponseStatus__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/LogEvent__e/fields/ResponseStatus__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 473,
+            "modifiedTime": 1583763993975,
+            "changeTime": 1583764065484,
+            "contentHash": "6d9a4df1b4e6393b5776d670dcee7333cd45a339",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/LogEvent__e/fields/RunningUser__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/LogEvent__e/fields/RunningUser__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 535,
+            "modifiedTime": 1583763993985,
+            "changeTime": 1583764065462,
+            "contentHash": "c65789183872e7b5d23104aae2721f6d07b82fe8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/LogEvent__e/fields/StackTrace__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/LogEvent__e/fields/StackTrace__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 453,
+            "modifiedTime": 1583763993987,
+            "changeTime": 1583764065469,
+            "contentHash": "e2d9a2118dc0b687f0ca6813c922dc592d3b13b6",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/LogEvent__e/fields/Type__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/LogEvent__e/fields/Type__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 452,
+            "modifiedTime": 1583763993988,
+            "changeTime": 1583764065480,
+            "contentHash": "81d0770c805fee9f6c7e10552bcb58964765e023",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/Log__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/Log__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 5169,
+            "modifiedTime": 1583764140890,
+            "changeTime": 1583764140890,
+            "contentHash": "dced32faf547b002bff083fd2a35947b164243c8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/fields/APIName__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/fields/APIName__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 2942,
+            "modifiedTime": 1583763935857,
+            "changeTime": 1583764065298,
+            "contentHash": "45d2a7214d764479f9c735ffc49bfb389c66e172",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/fields/ApexClass__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/fields/ApexClass__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 446,
+            "modifiedTime": 1583763935857,
+            "changeTime": 1583764065308,
+            "contentHash": "0737c6aac90c3625ead6b0c1a6fc303a9efc8245",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/fields/ApexMethod__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/fields/ApexMethod__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 448,
+            "modifiedTime": 1583763935858,
+            "changeTime": 1583764065286,
+            "contentHash": "e08bd4b9ef8c18268a97f1c31ea69abd7db8147f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/fields/Application__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/fields/Application__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 869,
+            "modifiedTime": 1583763935858,
+            "changeTime": 1583764065302,
+            "contentHash": "fc4e43ddccf24ed34387ae5fc60f99cfcdf6dcb9",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/fields/CorrelationId__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/fields/CorrelationId__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 456,
+            "modifiedTime": 1583763935861,
+            "changeTime": 1583764065273,
+            "contentHash": "55c492542ef21780a0df574bf0f5a3596663922a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/fields/Description__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/fields/Description__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 415,
+            "modifiedTime": 1583763935863,
+            "changeTime": 1583764065317,
+            "contentHash": "89904d7847208fb014dcf5e6283fe283ac599ee4",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/fields/Details__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/fields/Details__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 348,
+            "modifiedTime": 1583763935864,
+            "changeTime": 1583764065312,
+            "contentHash": "2868556178cd17f3b437ce252a77721abdd6a083",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/fields/Endpoint__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/fields/Endpoint__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 357,
+            "modifiedTime": 1583763935864,
+            "changeTime": 1583764065271,
+            "contentHash": "01c097c6cfced66efa1e9b2eeb97e16fbb6147b8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/fields/EntityData__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/fields/EntityData__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 398,
+            "modifiedTime": 1583763935865,
+            "changeTime": 1583764065285,
+            "contentHash": "9147ca2c7ab75002988c0d46c76b5a8d4120f60a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/fields/EntityId__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/fields/EntityId__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 408,
+            "modifiedTime": 1583763935866,
+            "changeTime": 1583764065300,
+            "contentHash": "75b9474c87d199e8bd3a6b1c7f065897c93fd18a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/fields/ExceptionType__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/fields/ExceptionType__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 467,
+            "modifiedTime": 1583763935866,
+            "changeTime": 1583764065269,
+            "contentHash": "2d3ccefb1d6dfd0e218bea4122e9c2ae698071cc",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/fields/Identifier__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/fields/Identifier__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 451,
+            "modifiedTime": 1583763935867,
+            "changeTime": 1583764065266,
+            "contentHash": "85ef337755c5d1d8d0051a3823beed0666a76a99",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/fields/RequestBody__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/fields/RequestBody__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 406,
+            "modifiedTime": 1583763935868,
+            "changeTime": 1583764065268,
+            "contentHash": "3f1eff6690948c22f71a27fbfe94732d7ed15053",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/fields/RequestHeader__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/fields/RequestHeader__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 407,
+            "modifiedTime": 1583763935868,
+            "changeTime": 1583764065281,
+            "contentHash": "84e458eaabe75a139ac2cdbe779b4dbd4e8c985f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/fields/ResponseBody__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/fields/ResponseBody__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 409,
+            "modifiedTime": 1583763935869,
+            "changeTime": 1583764065284,
+            "contentHash": "ee6a043d06b6b0d6fcea54132c757bb3f0121e7c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/fields/ResponseHeader__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/fields/ResponseHeader__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 415,
+            "modifiedTime": 1583763935869,
+            "changeTime": 1583764065291,
+            "contentHash": "6891be8def100e3470dba054c2a66ac4075bdb66",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/fields/ResponseStatusCode__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/fields/ResponseStatusCode__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 439,
+            "modifiedTime": 1583763935870,
+            "changeTime": 1583764065272,
+            "contentHash": "70283ad6e5639249f2ef62ef20cc4c39886aada8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/fields/ResponseStatus__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/fields/ResponseStatus__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 427,
+            "modifiedTime": 1583763935870,
+            "changeTime": 1583764065316,
+            "contentHash": "3d0795a1ef9aa508921f77b1227571ded324f90a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/fields/RunningUser__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/fields/RunningUser__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 524,
+            "modifiedTime": 1583763935871,
+            "changeTime": 1583764065267,
+            "contentHash": "a912bd793bebf0f5e0a99d1a205468fc16eec555",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/fields/StackTrace__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/fields/StackTrace__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 404,
+            "modifiedTime": 1583763935871,
+            "changeTime": 1583764065275,
+            "contentHash": "27a41eae27820e65969a24b6b22972d2542ef679",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/fields/Type__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/fields/Type__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 850,
+            "modifiedTime": 1583763935872,
+            "changeTime": 1583764065303,
+            "contentHash": "464641eb97a7e66a9e51a3765832e5dd280fe34d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/listViews/All.listView-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 492,
+            "modifiedTime": 1583763935873,
+            "changeTime": 1583764065262,
+            "contentHash": "d01faf31902b83477ddab58d89fa2d3011a20e1c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/listViews/Error_Apex.listView-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/listViews/Error_Apex.listView-meta.xml",
+            "isDirectory": false,
+            "size": 593,
+            "modifiedTime": 1583763935873,
+            "changeTime": 1583764065259,
+            "contentHash": "34c0b372ab8684fae6a56e5a94b928af79f8f70e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/recordTypes/Apex.recordType-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/recordTypes/Apex.recordType-meta.xml",
+            "isDirectory": false,
+            "size": 2125,
+            "modifiedTime": 1583763935874,
+            "changeTime": 1583764065319,
+            "contentHash": "ea367c4b973677d4669e93f36120f4f54fd62c09",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/recordTypes/Callout.recordType-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/objects/Log__c/recordTypes/Callout.recordType-meta.xml",
+            "isDirectory": false,
+            "size": 2428,
+            "modifiedTime": 1583763935901,
+            "changeTime": 1583764065322,
+            "contentHash": "6e2c8236f453b71e709a386a5e8e1ee5611bb7f4",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/classes/TRG_LogEventHandler.cls",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/classes/TRG_LogEventHandler.cls",
+            "isDirectory": false,
+            "size": 1321,
+            "modifiedTime": 1583774947447,
+            "changeTime": 1583774950981,
+            "contentHash": "e9e24cf85fc5b4aa10184157fc7ce47091b253e2",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/classes/TRG_LogEventHandler.cls-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/classes/TRG_LogEventHandler.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1583421242000,
+            "changeTime": 1583774956719,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/classes/TRG_LogEventHandlerTest.cls",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/classes/TRG_LogEventHandlerTest.cls",
+            "isDirectory": false,
+            "size": 2802,
+            "modifiedTime": 1583774947447,
+            "changeTime": 1583774963852,
+            "contentHash": "5a6babd13cbc4f63181031298838f5d9da0cd1eb",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/classes/TRG_LogEventHandlerTest.cls-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/classes/TRG_LogEventHandlerTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1583421242000,
+            "changeTime": 1583774967986,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/classes/UTIL_Constants.cls",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/classes/UTIL_Constants.cls",
+            "isDirectory": false,
+            "size": 926,
+            "modifiedTime": 1583774846342,
+            "changeTime": 1583774857148,
+            "contentHash": "7fd7e2fbbdeb6705d17a4530bdb7d529ec01673c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/classes/UTIL_Constants.cls-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/classes/UTIL_Constants.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1583421242000,
+            "changeTime": 1583774861259,
+            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/classes/WS_CalloutMock.cls",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/classes/WS_CalloutMock.cls",
+            "isDirectory": false,
+            "size": 1531,
+            "modifiedTime": 1583774794351,
+            "changeTime": 1583774803011,
+            "contentHash": "a41e1ca2498303e6608e6415e9bd59eef1d7bd04",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/classes/WS_CalloutMock.cls-meta.xml",
+        {
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/classes/WS_CalloutMock.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1583421242000,
+            "changeTime": 1583774824711,
+            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/triggers/TRG_LogEvent.trigger",
+        {
+            "state": "u",
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/triggers/TRG_LogEvent.trigger",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 188,
+            "modifiedTime": 1583775029495,
+            "changeTime": 1583775039419,
+            "contentHash": "d631e400dfee8aafeb1227bb1615007ed32bae48"
+        }
+    ],
+    [
+        "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/triggers/TRG_LogEvent.trigger-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/gavignon/Documents/Tools/07 - Github/sfdc-starter-kit/force-app/main/default/triggers/TRG_LogEvent.trigger-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 178,
+            "modifiedTime": 1583421242000,
+            "changeTime": 1583775043469,
+            "contentHash": "0da86305758ba96f2ae282a7bdb7a347584afb17"
+        }
+    ]
+]
