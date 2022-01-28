@@ -9,6 +9,37 @@ public class UTIL_Logger {
     public static List<LogEvent__e> logEvents = new List<LogEvent__e>();
     private static Integer cpt = 0;
     // private static LogSettings__c mySettings = LogSettings__c.getInstance();
+    
+    @InvocableMethod(label='Log Error' description='Log error in Log__c custom object.')
+    public static void logEventFromFlow(List<FlowRequest> flowRequest){
+        String recordType = 'Apex';
+        if(flowRequest[0].recordType != null){
+            recordType = flowRequest[0].recordType;
+        }
+    
+        String recordTypeId = recordType == 'Callout' ? LOG_CALLOUT_RTID : LOG_APEX_RTID;
+        LogEvent__e logEvent = new LogEvent__e(
+                Identifier__c = generateId(),
+                APIName__c = flowRequest[0].apiName,
+                ApexClass__c = flowRequest[0].apexClass.left(50),
+                ApexMethod__c = flowRequest[0].apexMethod.left(50),
+                Description__c = flowRequest[0].errorMessage.left(255),
+                Details__c = flowRequest[0].errorMessage.left(131072),
+                Type__c = C3S_UTI01_Constants.LOG_TYPE_ERROR,
+                EntityId__c = flowRequest[0].entityId.left(18),
+                RecordTypeId__c = recordTypeId,
+                ResponseStatusCode__c = flowRequest[0].responseStatusCode,
+                ResponseBody__c = flowRequest[0].errorMessage.left(131072),
+                RunningUser__c = UserInfo.getUserId(),
+                StackTrace__c = flowRequest[0].errorMessage.left(131072)
+        );
+        if(Test.isRunningTest()){
+            logEvent.Identifier__c = String.valueOf(cpt);
+            cpt++;
+        }
+        logEvents.add(logEvent);
+        commitLogEvents();
+    }
 
     /**
     * @author Gil Avignon
